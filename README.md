@@ -3,7 +3,7 @@ This repository demonstrates advanced Windows memory evasion techniques for educ
 
 
 
-# 🔒 Malware Development Research - README
+# 🔒 Malware Development Research 
 
 ## ⚠️ Legal & Ethical Disclaimer
 
@@ -71,7 +71,3 @@ Never test this code on production systems or networks.
 We stand for **security**, **education**, and **defense** — not exploitation or harm.
 
 ---
-
-## License
-
-[Specify your license here — usually something like MIT with restriction notes]
